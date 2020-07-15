@@ -1,1 +1,1 @@
-I need to find a way to make my code better with pythonista and find how to import pictures. My goal is to make a picture
+My goal is to make a video game that has a character shooting lasers at meteors and collecting coins at the same time for points
